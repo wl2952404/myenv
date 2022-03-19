@@ -1,3 +1,8 @@
+#remap prefix to Control + a
+set -g prefix C-a
+# bind 'C-a C-a' type 'C-a'
+bind C-a send-prefix
+unbind C-b
 set -g @plugin 'tmux-plugins/tpm'
 set -g @plugin 'tmux-plugins/tmux-sensible'
 set -g @plugin 'thewtex/tmux-mem-cpu-load'
