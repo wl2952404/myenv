@@ -2,3 +2,4 @@
 curl "https://raw.githubusercontent.com/sinolnil/myenv/main/tmux"      >/$HOME/.tmux.conf
 curl "https://raw.githubusercontent.com/sinolnil/myenv/main/vim"     >/$HOME/.vimrc
 curl "https://raw.githubusercontent.com/sinolnil/myenv/main/gitconfig" >/$HOME/.gitconfig
+curl "https://raw.githubusercontent.com/sinolnil/myenv/main/omf_clearance_config" >/$HOME/.local/share/omf/themes/clearance/functions/fish_prompt.fish
