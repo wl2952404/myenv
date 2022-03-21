@@ -1,5 +1,5 @@
 #!/bin/bash
-curl "https://raw.githubusercontent.com/sinolnil/myenv/main/tmux?token=GHSAT0AAAAAABSWRRCCQBIS2VA2KRBVW364YRX4NJQ"      >/$HOME/.tmux.conf
-curl "https://raw.githubusercontent.com/sinolnil/myenv/main/vim?token=GHSAT0AAAAAABSWRRCCV2Y453F5GK5ZNCVEYRX4NKQ"     >/$HOME/.vimrc
-curl "https://raw.githubusercontent.com/sinolnil/myenv/main/gitconfig?token=GHSAT0AAAAAABSWRRCDYEVUGSIRCK6EW4PWYRX4NHQ" >/$HOME/.gitconfig
-curl "https://raw.githubusercontent.com/sinolnil/myenv/main/omf_clearance_config?token=GHSAT0AAAAAABSWRRCCY36CMMNUL42QRJ6QYRX4NIQ" >/$HOME/.local/share/omf/themes/clearance/functions/fish_prompt.fish
+curl "https://raw.githubusercontent.com/sinolnil/myenv/main/tmux"      >/$HOME/.tmux.conf
+curl "https://raw.githubusercontent.com/sinolnil/myenv/main/vim"     >/$HOME/.vimrc
+curl "https://raw.githubusercontent.com/sinolnil/myenv/main/gitconfig" >/$HOME/.gitconfig
+curl "https://raw.githubusercontent.com/sinolnil/myenv/main/omf_clearance_config" >/$HOME/.local/share/omf/themes/clearance/functions/fish_prompt.fish
